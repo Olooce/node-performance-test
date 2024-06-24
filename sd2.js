@@ -69,7 +69,7 @@ async function seedData({ workerData, lastLogTime }) {
 
 if (isMainThread) {
   const numThreads = 4;
-  const totalEmployees = 1000;
+  const totalEmployees = 1000000;
   const employeesPerThread = Math.ceil(totalEmployees / numThreads);
 
   const startTime = Date.now(); 
