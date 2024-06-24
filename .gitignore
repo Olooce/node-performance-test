@@ -1,0 +1,12 @@
+.env
+node_modules
+db.js
+dbt.js
+dbUtil.js
+
+
+seed.js
+seed2.js
+seedt.js
+sequelize.js
+
