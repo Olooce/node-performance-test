@@ -10,3 +10,12 @@ seed2.js
 seedt.js
 sequelize.js
 
+.idea/
+node_modules/
+.vscode/
+target/
+build/
+dist/
+.DS_Store
+coverage/
+Thumbs.db
